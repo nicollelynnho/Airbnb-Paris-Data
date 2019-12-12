@@ -6,10 +6,7 @@ The aim of this project is to explore Paris AirBnb listing data to find meaningf
 
 Files + Description:
 Proj1.ipynb - Python notebook to ingest data, pose business questions, clean and analyze data, and evaluate results.
-calendar.csv - Calendar Data
-listings_2.csv - Paris Airbnb listing data 
-neighbourhoods.csv - List of neighborhoods in paris 
-reviews_2.csv - Airbnb review details data 
+No data is included due to file size. The data used in the project is the listing details csv, review details csv, calendar csv, and neighborhood csv. 
 
 Libraries:
 Matplotlib, Pandas, Numpy, Seaborn
